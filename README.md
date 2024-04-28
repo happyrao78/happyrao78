@@ -1,5 +1,5 @@
 ![logo](https://github.com/happyrao78/happyrao78/blob/main/Screenshot%202024-02-25%20035759.png)
-<h1 align="center">Ram Ram Bhai Sareya Ne, I'm Happy Yadav</h1>
+<h1 align="center">Hey Everyone, I'm Happy Yadav</h1>
 <h3 align="center"> A Future Data Sorcerer, Code Maverick, Startup Enthusiast & A creative Freelancer.</h3>
 
 <p align="left"> <a href="https://twitter.com/rao_happy60490" target="blank"><img src="https://img.shields.io/twitter/follow/rao_happy60490?logo=twitter&style=for-the-badge" alt="rao_happy60490" /></a> </p>
