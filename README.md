@@ -1,4 +1,4 @@
-![logo](https://github.com/happyrao78/happyrao78/blob/main/Screenshot%202024-02-25%20035759.png)
+
 <h1 align="center">Hey Everyone, I'm Happy Yadav</h1>
 <h3 align="center"> A Future Data Sorcerer, Code Maverick, Startup Enthusiast & A creative Freelancer.</h3>
 
