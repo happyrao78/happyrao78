@@ -1,8 +1,9 @@
 
-<h1 align="center">Hey Everyone, I'm Happy Yadav</h1>
+<h1 align="center"><b>Hey Everyone, I'm Happy Yadav</b></h1>
 <h3 align="center"> A Future Data Sorcerer, Code Maverick, Startup Enthusiast & A creative Freelancer.</h3>
 
 <p align="left"> <a href="https://twitter.com/rao_happy60490" target="blank"><img src="https://img.shields.io/twitter/follow/rao_happy60490?logo=twitter&style=for-the-badge" alt="rao_happy60490" /></a> </p>
+![GitHub Views](https://komarev.com/ghpvc/?username=happyrao78&color=0e75b6)
 
 - 🌱 I’m currently learning **ReactJS, C++/DSA, MySQL etc.**
 
