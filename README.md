@@ -3,8 +3,8 @@
 <h3 align="center"> A Future Data Sorcerer, Code Maverick, Startup Enthusiast & A creative Freelancer.</h3>
 
 <p align="left"> <a href="https://twitter.com/rao_happy60490" target="blank"><img src="https://img.shields.io/twitter/follow/rao_happy60490?logo=twitter&style=for-the-badge" alt="rao_happy60490" /></a> </p>
-![Github Views](https://komarev.com/ghpvc/?username=happyrao78&color=lightgrey&style=plastic&base=500&abbreviated=true)
-
+<p align "left"><a href="
+https://komarev.com/ghpvc/?username=happyrao78&color=lightgrey&style=plastic&abbreviated=true" target="_blank" /></a></p>
 - 🌱 I’m currently learning **ReactJS, C++/DSA, MySQL etc.**
 
 - 👯 I’m looking to collaborate on **open source projects which can give me hands on experience for my skills.**
