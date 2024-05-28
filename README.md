@@ -4,13 +4,13 @@
 
 
 ![Github Views](https://komarev.com/ghpvc/?username=happyrao78&color=lightgrey&style=plastic&abbreviated=true&base=500)
-- 🌱 I’m currently learning **ReactJS, C++/DSA, MySQL etc.**
+- 🌱 I’m currently learning **Mern Stack**
 
 - 👯 I’m looking to collaborate on **open source projects which can give me hands on experience for my skills.**
 
 - 💬 Ask me about **technologies, startups, confidence building & a good communication.**
 
-- 📫 How to reach me **happy.hy0017@gmail.com**
+- 📫 How to reach me **happyrao7091@gmail.com**
 
 - ⚡ Fun fact **I laugh at serious moments.**
 
