@@ -1,5 +1,5 @@
 
-<h1 align="center"><b>Hello Everyone, I'm Happy Yadav</b></h1>
+<h1 align="center"><b>Hello everyone, I'm Happy Yadav</b></h1>
 <h3 align="center"> A Future Data Sorcerer, Code Maverick, Startup Enthusiast & A creative Freelancer.</h3>
 
 
