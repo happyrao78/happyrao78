@@ -4,7 +4,7 @@
 
 
 ![Github Views](https://komarev.com/ghpvc/?username=happyrao78&color=lightgrey&style=plastic&base=500)
-- 🌱 I’m currently learning **MEAN STACK** & **DSA( Language Independent )**
+- 🌱 I’m currently dwelling myself into **MEAN STACK**, **Artificial Intelligence & Machine Learning ** & **DSA( Language Independent )**
 
 - 👯 I’m looking to collaborate on **open source projects which can give me hands on experience for my skills.**
 
