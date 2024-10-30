@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Want to Know me ?
 <br>
 I'm ,
 
@@ -8,9 +8,7 @@ I'm ,
   
 - collaborating and contributing to the Open Source Projects thus gaining an industry level experience.
   
-- Leading a 365 Coding Days Technical Community.
-  
-- Available 24*7 @ : <a href="https://www.happyrao.tech">www.happyrao.tech</a>
+- Available @ : <a href="https://www.happyrao.tech">www.happyrao.tech</a>
 
 # 💻 Tech Stack:
 
