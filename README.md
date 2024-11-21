@@ -1,4 +1,4 @@
-# 💫 Want to Know me ?
+# Want to Know me ?
 <br>
 I'm ,
 
