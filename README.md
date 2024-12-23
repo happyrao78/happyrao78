@@ -1,5 +1,5 @@
 # Want to Know me ?
-<br> 
+<br>   
 I'm ,      
  
 - Future Data Scientist & Software Architect, Heavy Frontend Developer, Paid Freelancer, Technical Director : @CodingNinjasCUIET, Ex-Intern @Hunar.ai, @UnsaidTalks, into Building Startups.
