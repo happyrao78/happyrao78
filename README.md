@@ -17,8 +17,8 @@ I'm ,
 ## 📊 My Github Stats
 
 <p align="center">
-    <a href="https://github.com/happyrao78/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="happy yadav's streak" src="https://streak-stats.demolab.com/?user=happyrao78"/>
+    <a href="[https://github.com/happyrao78/github-readme-streak-stats](https://streak-stats.demolab.com/?user=happyrao78)">
+        <img src="https://streak-stats.demolab.com/?user=happyrao78" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="happy yadav's streak" />
     </a>
 </p>
   <br/>
