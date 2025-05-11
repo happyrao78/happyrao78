@@ -8,7 +8,7 @@ I'm ,
   
 - collaborating and contributing to the Open Source Projects thus gaining an industry level experience.
   
-- Available @ : <a href="https://www.happyrao.tech">www.happyrao.tech</a>
+- Available @ : <a href="https://www.happyrao.tech">www.yadavhappy.in</a>
 
 # 💻 Tech Stack:
 
