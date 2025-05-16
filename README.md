@@ -6,7 +6,7 @@ I'm ,
   
 - currently enhancing my skills in D-CREN Stack, Artifical Intellignece & Machine Learning Projects , Data Structures & Algorithm ( Language Independent ). 
    
-- collaborating and contributing to the Open Source Projects thus gaining an industry level experience.
+- collaborating and contributing to the Open Source Projects thus gaining an industry level experience. 
   
 - Available @ : <a href="https://www.yadavhappy.in">www.yadavhappy.in</a>
 
