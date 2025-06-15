@@ -2,13 +2,13 @@
 <br>        
 I'm ,                  
           
-- Future Data Scientist & Software Architect, Heavy Full Stack Developer, Paid Freelancer, Technical Director : @CodingNinjasCUIET, Ex-Intern @Hunar.ai, @UnsaidTalks, into Building Startups.
+- Future Data Scientist, AI Engineer, Full Stack Developer, Freelancer, Ex:Technical Director : @CodingNinjasCUIET, Ex-Intern @Hunar.ai, @UnsaidTalks, into Building Startups.
   
-- currently enhancing my skills in D-CREN Stack, Artifical Intellignece & Machine Learning Projects , Data Structures & Algorithm ( Language Independent ). 
+- currently enhancing my skills in Artifical Intellignece & Machine Learning Projects , Data Structures & Algorithm ( Language Independent ). 
    
 - collaborating and contributing to the Open Source Projects thus gaining an industry level experience. 
   
-- Available @ : <a href="https://www.yadavhappy.in">www.yadavhappy.in</a>
+- Professional Showcase @ : <a href="https://www.yadavhappy.in">www.yadavhappy.in</a>
  
 # 💻 Tech Stack:
 
