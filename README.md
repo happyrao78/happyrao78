@@ -4,7 +4,7 @@
 I am an aspiring Data Scientist, AI Engineer, and Full Stack Developer with a strong foundation in software development, artificial intelligence, and scalable system design. My experiences span technical leadership, internships, open-source collaboration, and impactful hackathon achievements.
 
 Formerly a Technical Director at **Coding Ninjas Club (Chitkara University)**, and a Backend Intern at **Hunar.ai**, I actively engage in real-world applications of AI and full-stack technologies. My focus is on building intelligent automation solutions and high-performance web platforms.
-
+ 
 I am currently refining my skills in Artificial Intelligence, Machine Learning, and Data Structures & Algorithms (language agnostic), while contributing to open-source projects and startup development.
 
 > 📄 Professional Portfolio: [www.yadavhappy.in](https://www.yadavhappy.in)
