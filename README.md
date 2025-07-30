@@ -32,11 +32,14 @@ Git · GitHub · GitHub Actions · Firebase · MongoDB · SQLite · Docker · Di
 ### [Sankalpiq](https://github.com/happyrao78/automation-suite)  
 Developed an AI automation suite leveraging LLMs, LangChain, Pinecone, and FastAPI. Features include CLI email automation, WhatsApp outreach, and voice-based FAQ/data collection. Achieved 50% operational efficiency improvement across NGO operations.
 
+### [Ninja Navigator AI](https://github.com/happyrao78/Ninja-Navigator-AI)
+Ninja Navigator AI is a multi-agent orchestration system designed to deliver intelligent, actionable travel plans based on a user’s natural language query. It harnesses multiple specialized agents that work independently and collaboratively to research, analyze, and generate complete itineraries.
+
 ### [Aura.ai](https://www.yadavhappy.in/projects)  
 An intelligent video automation platform that converts documents to video content with multilingual support, voiceovers, interactive quizzes, AR/VR integration, and real-time engagement analytics.
 
-### [Prereet Foundation](https://prereetfoundation.vercel.app/)  
-End-to-end full-stack NGO platform featuring donation tracking, Razorpay integration, chatbot automation, and real-time analytics with PWA support.
+### [NGO Management System](https://prereetfoundation.vercel.app/)  
+End-to-end full-stack NGO management platform featuring donation tracking, Razorpay integration, chatbot automation, and real-time analytics with PWA support.
 
 ---
 
