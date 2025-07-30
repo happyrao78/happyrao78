@@ -29,14 +29,18 @@ Git · GitHub · GitHub Actions · Firebase · MongoDB · SQLite · Docker · Di
 
 # Notable Projects
 
-### [Sankalpiq](https://github.com/happyrao78/automation-suite)  
-Developed an AI automation suite leveraging LLMs, LangChain, Pinecone, and FastAPI. Features include CLI email automation, WhatsApp outreach, and voice-based FAQ/data collection. Achieved 50% operational efficiency improvement across NGO operations.
+### [Sankalpiq: Multi AI-Agent Automation](https://github.com/happyrao78/automation-suite)  
+Architected enterprise-grade AI Automation Suite using LLMs, Pinecone, minilm-l6-v2, FastAPI, Docker, Selenium and LangChain orchestration, deploying autonomous micro-agents (CLI Email Automation, Voice FAQ/Data Collection, WhatsApp Outreach, Streamlit Dashboard) with semantic search, real-time telephonic interactions, and scalable messaging infrastructure, achieving 50% operational efficiency and 40% stakeholder engagement.
 
-### [Ninja Navigator AI](https://github.com/happyrao78/Ninja-Navigator-AI)
-Ninja Navigator AI is a multi-agent orchestration system designed to deliver intelligent, actionable travel plans based on a user’s natural language query. It harnesses multiple specialized agents that work independently and collaboratively to research, analyze, and generate complete itineraries.
+### [Ninja Navigator AI:Multi-Agent Travel Planning System](https://github.com/happyrao78/Ninja-Navigator-AI)
+• Architected a production-grade Multi-Agent AI system using LangChain, LangGraph, and FastAPI, orchestrating 5 specialized agents with asynchronous coordination and state management.
+• Implemented enterprise software practices including modular architecture, exception handling, structured logging, and CI/CD pipelines using UV package management and Husky git hooks.
+• Developed scalable microservices integrating multiple LLM providers (Groq, OpenAI) with external APIs, achieving 95% uptime through asyncio optimization and concurrent workflows.
 
-### [Aura.ai](https://www.yadavhappy.in/projects)  
-An intelligent video automation platform that converts documents to video content with multilingual support, voiceovers, interactive quizzes, AR/VR integration, and real-time engagement analytics.
+### [Aura.ai: Text to Instant Video Creation SaaS Platform](https://www.yadavhappy.in/projects)  
+• Developed an AI SaaS platform that automates video creation from text-based doc inputs with summarization, voice-
+over, and multilingual support, enhancing accessibility in education and corporate training.
+• Integrated interactive quizzes and an analytics dashboard to track user engagement, retention, and comprehension through viewership data and quiz performance, aurabot for custom knowledge based queries, AR/VR integration , sign language video generation, and voice-activated navigation for inclusivity.
 
 ### [NGO Management System](https://prereetfoundation.vercel.app/)  
 End-to-end full-stack NGO management platform featuring donation tracking, Razorpay integration, chatbot automation, and real-time analytics with PWA support.
