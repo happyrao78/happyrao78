@@ -1,8 +1,4 @@
-# Happy Yadav
-
-AI Engineer | Generative AI & Real-Time Voice Systems | Full-Stack Engineer
-
----
+<img width="1400" height="350" alt="image" src="https://github.com/user-attachments/assets/6c6d31f4-9264-4d0c-8cba-c2f8d30d1bb6" />
 
 ## Overview
 
