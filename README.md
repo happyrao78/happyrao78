@@ -1,81 +1,125 @@
+# Happy Yadav
 
-# About Me
-
-I am an aspiring Data Scientist, AI Engineer, and Full Stack Developer with a strong foundation in software development, artificial intelligence, and scalable system design. My experiences span technical leadership, internships, open-source collaboration, and impactful hackathon achievements. 
-
-Formerly a Technical Director at **Coding Ninjas Club (Chitkara University)**, and a Backend Intern at **Hunar.ai**, I actively engage in real-world applications of AI and full-stack technologies. My focus is on building intelligent automation solutions and high-performance web platforms.
- 
-I am currently refining my skills in Artificial Intelligence, Machine Learning, and Data Structures & Algorithms (language agnostic), while contributing to open-source projects and startup development.
-
-> 📄 Professional Portfolio: [www.yadavhappy.in](https://www.yadavhappy.in)
+AI Engineer | Generative AI & Real-Time Voice Systems | Full-Stack Engineer
 
 ---
 
-# Tech Stack
+## Overview
 
-### Programming Languages  
-C · C++ · Python · JavaScript · TypeScript · SQL  
+I am an AI Engineer and Software Developer focused on building **production-grade Generative AI systems**, **real-time voice-to-voice pipelines**, and **scalable full-stack platforms**. My current work is deeply centered around low-latency audio intelligence, multi-agent architectures, and applied LLM systems operating under real-world constraints.
 
-### Web & Application Development  
-React · Next.js · Node.js · Express.js · HTML5 · CSS3 · Tailwind CSS · Bootstrap · Redux · Context API · React Router · Chakra UI · React Hook Form · Bun  
+I have hands-on experience designing **end-to-end V2V (voice-to-voice) AI pipelines**, telephony-integrated conversational agents, and multi-agent automation frameworks used in enterprise and consumer-facing environments. Alongside AI systems, I actively build high-performance backend services and modern web applications with an emphasis on reliability, observability, and scalability.
 
-### AI, ML, and Data  
-TensorFlow · PyTorch · Keras · NumPy · OpenCV · LangChain · Pinecone · LangGraph · LangSmith · FastAPI · Kafka · Redis  
-
-### Tools & Platforms  
-Git · GitHub · GitHub Actions · Firebase · MongoDB · SQLite · Docker · DigitalOcean · Render · Vercel · Netlify · Windows Terminal · Jira · Arduino · Power BI · Selenium · BeautifulSoup · Twilio · Canva  
+I regularly document my engineering learnings, experiments, and architectural decisions publicly on X, particularly around **real-time audio AI**, **LLM orchestration**, and **system-level optimizations**.
 
 ---
 
-# Notable Projects
+## Current Focus Areas
 
-### [Sankalpiq: Multi AI-Agent Automation](https://github.com/happyrao78/automation-suite)  
-Architected enterprise-grade AI Automation Suite using LLMs, Pinecone, minilm-l6-v2, FastAPI, Docker, Selenium and LangChain orchestration, deploying autonomous micro-agents (CLI Email Automation, Voice FAQ/Data Collection, WhatsApp Outreach, Streamlit Dashboard) with semantic search, real-time telephonic interactions, and scalable messaging infrastructure, achieving 50% operational efficiency and 40% stakeholder engagement.
-
-### [Ninja Navigator AI:Multi-Agent Travel Planning System](https://github.com/happyrao78/Ninja-Navigator-AI)
-• Architected a production-grade Multi-Agent AI system using LangChain, LangGraph, and FastAPI, orchestrating 5 specialized agents with asynchronous coordination and state management.
-• Implemented enterprise software practices including modular architecture, exception handling, structured logging, and CI/CD pipelines using UV package management and Husky git hooks.
-• Developed scalable microservices integrating multiple LLM providers (Groq, OpenAI) with external APIs, achieving 95% uptime through asyncio optimization and concurrent workflows.
-
-### [Aura.ai: Text to Instant Video Creation SaaS Platform](https://www.yadavhappy.in/projects)  
-• Developed an AI SaaS platform that automates video creation from text-based doc inputs with summarization, voice-
-over, and multilingual support, enhancing accessibility in education and corporate training.
-• Integrated interactive quizzes and an analytics dashboard to track user engagement, retention, and comprehension through viewership data and quiz performance, aurabot for custom knowledge based queries, AR/VR integration , sign language video generation, and voice-activated navigation for inclusivity.
-
-### [NGO Management System](https://prereetfoundation.vercel.app/)  
-End-to-end full-stack NGO management platform featuring donation tracking, Razorpay integration, chatbot automation, and real-time analytics with PWA support.
+* Real-time Voice AI systems (STT → LLM → TTS, V2V pipelines)
+* WebRTC, VoIP, and telephony-based conversational agents
+* Multi-agent LLM orchestration using LangGraph and LangChain
+* Low-latency, cost-aware model routing and inference optimization
+* Scalable backend systems with async-first architectures
+* Applied RAG systems with vector databases
 
 ---
 
-# Achievements
+## Professional Experience
 
-- **Bajaj Finserv HackRx 5.0** — Top 22 Finalist (out of 700+ teams), Social Buzz Winner  
-- **Aditya Birla Synaptix Hackathon '25** — Winner at Delhi Technological University  
-- **Microsoft GitHub Field Day** — Selected from 670+ national applicants  
-- **FusionFest Hackathon** — 1st Runner-Up, Chitkara University  
-- **Innovest 3.0** — Top 10 Finalist out of 573+ teams  
-- **Vihaan 7.0** — Finalist & Social Buzz Winner, DTU  
+### Generative AI Engineer — EaseMyTrip, Gurgaon
 
----
+**Aug 2025 – Present**
 
-# GitHub Stats
-
-<p align="center">
-    <img src="https://streak-stats.demolab.com/?user=happyrao78&theme=black" alt="GitHub Streak Stats" />
-</p>
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=happyrao78&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=happyrao78&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</p>
-
-> Note: "Top Languages" only reflects publicly available code and does not represent proficiency level.
+* Architected and deployed an end-to-end **Voice-to-Voice AI pipeline** from scratch using OpenAI GPT-4o-mini Realtime Preview, Gemini native thinking-audio models, Whisper ASR, and custom STT–LLM–TTS micro-pipelines.
+* Achieved **sub-220ms round-trip latency** via chunked audio streaming, adaptive buffering, server-side VAD tuning (60–80ms), and preemptive interruption handling.
+* Integrated **DeepFilterNet** for real-time noise suppression, improving speech clarity by approximately 32 percent.
+* Designed a real-time communication stack using **LiveKit (WebRTC)**, WebSocket-based audio streaming, and VoIP protocol experimentation (μ-law, Opus, RTP jitter buffers).
+* Built bidirectional telephony integrations with **Twilio and Exotel**, including custom G711 μ-law converters, FFmpeg preprocessing, and async worker pipelines, resulting in 98 percent plus call stability.
+* Conducted R&D across OpenAI, Gemini, Anthropic, Deepgram, and Groq voice models with **token-aware routing**, latency-based model switching, and compression-optimized payloads, reducing per-call cost and improving inference throughput by ~35 percent.
+* Designed PostgreSQL-backed async architectures with multi-stage NLP extraction and multi-channel support (Telephony, WhatsApp, Telegram).
 
 ---
 
-# Contact
+### Backend Developer Intern — Hunar.ai, Gurgaon
 
-- 📫 Email: [happyrao7091@gmail.com](mailto:happyrao7091@gmail.com)  
-- 🌐 Portfolio: [www.yadavhappy.in](https://www.yadavhappy.in)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/happy-yadav-16b2a4287/)  
-- 👨‍💻 [GitHub](https://github.com/happyrao78)
+**Jun 2024 – Aug 2024**
+
+* Developed optimized PostgreSQL query pipelines for large-scale data extraction and reporting.
+* Improved reporting efficiency by ~30 percent for clients managing 100,000 plus records.
+
+---
+
+## Selected Projects
+
+### Sankalpiq — Multi-Agent AI Automation Suite
+
+* Designed an enterprise-grade AI automation platform using LLMs, FastAPI, Docker, Pinecone, and LangChain orchestration.
+* Deployed autonomous micro-agents for email automation, voice-based FAQ and data collection, WhatsApp outreach, and analytics dashboards.
+* Implemented semantic search, real-time telephonic interactions, and scalable messaging infrastructure.
+* Achieved approximately 50 percent operational efficiency gains and 40 percent higher stakeholder engagement.
+
+---
+
+### Ninja Navigator AI — Multi-Agent Travel Planning System
+
+* Architected a production-grade multi-agent system using LangChain, LangGraph, and FastAPI.
+* Orchestrated five specialized agents with asynchronous coordination and persistent state management.
+* Implemented enterprise-grade practices including structured logging, exception handling, CI/CD pipelines, UV package management, and Husky git hooks.
+* Integrated multiple LLM providers (OpenAI, Groq) with concurrent asyncio workflows, achieving ~95 percent uptime.
+
+---
+
+### Aura.ai — Text-to-Video AI SaaS Platform
+
+* Built an AI-driven SaaS platform that converts text documents into summarized, voice-over-enabled videos with multilingual support.
+* Integrated analytics dashboards, interactive quizzes, and engagement tracking.
+* Added inclusive features such as custom knowledge-based assistants, AR/VR components, sign-language video generation, and voice-controlled navigation.
+
+---
+
+## Technical Skillset
+
+**Programming Languages**
+
+* Python, C++, JavaScript, TypeScript, SQL
+
+**AI and Generative Systems**
+
+* LangChain, LangGraph, LangSmith, RAG pipelines, LLM embeddings, Pinecone
+* Speech and audio systems, STT/TTS pipelines, LiveKit
+
+**Backend and Infrastructure**
+
+* Node.js, Express.js, FastAPI, Kafka, Redis
+* Docker, PostgreSQL, MongoDB, Firebase, SQLite
+
+**Frontend and Web**
+
+* React, Next.js, Redux, Tailwind CSS
+
+**Tooling and Platforms**
+
+* Git, GitHub Actions, CI/CD pipelines, Selenium, BeautifulSoup, GCP
+
+---
+
+## Achievements
+
+* Top 22 National Finalist and Social Buzz Winner — Bajaj Finserv HackRx 5.0
+* Winner — Aditya Birla Group Synaptix Hackathon 2025 (DTU)
+* Selected — Microsoft GitHub Field Day, Gurgaon
+* First Runner-Up — FusionFest Hackathon, Chitkara University
+* Finalist and Social Buzz Winner — Vihaan 7.0, DTU
+
+---
+
+## Links
+
+* Portfolio: [https://www.yadavhappy.in](https://www.yadavhappy.in)
+* LinkedIn: [https://www.linkedin.com/in/happy-yadav-16b2a4287](https://www.linkedin.com/in/happy-yadav-16b2a4287)
+* Email: [happyrao7091@gmail.com](mailto:happyrao7091@gmail.com)
+
+---
+
+I am interested in roles and collaborations involving **Generative AI**, **Voice AI**, **LLM Systems**, and **scalable backend engineering**. Open to research-driven engineering problems and early-stage product work.
