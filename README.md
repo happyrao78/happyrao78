@@ -1,121 +1,222 @@
-<img width="1400" height="350" alt="image" src="https://github.com/user-attachments/assets/6c6d31f4-9264-4d0c-8cba-c2f8d30d1bb6" />
+<div align="center">
 
-## Overview
+# Happy Yadav
 
-I am an AI Engineer and Software Developer focused on building **production-grade Generative AI systems**, **real-time voice-to-voice pipelines**, and **scalable full-stack platforms**. My current work is deeply centered around low-latency audio intelligence, multi-agent architectures, and applied LLM systems operating under real-world constraints.
+### Generative AI Engineer · Voice AI Systems · Full-Stack Developer
 
-I have hands-on experience designing **end-to-end V2V (voice-to-voice) AI pipelines**, telephony-integrated conversational agents, and multi-agent automation frameworks used in enterprise and consumer-facing environments. Alongside AI systems, I actively build high-performance backend services and modern web applications with an emphasis on reliability, observability, and scalability.
+Building production-grade real-time Voice AI pipelines, multi-agent LLM systems, and scalable backend platforms.
 
-I regularly document my engineering learnings, experiments, and architectural decisions publicly on X, particularly around **real-time audio AI**, **LLM orchestration**, and **system-level optimizations**.
+[![Portfolio](https://img.shields.io/badge/Portfolio-yadavhappy.in-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.yadavhappy.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/happy-yadav-16b2a4287)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:happy.yadav.ai@gmail.com)
+
+</div>
+
+---
+
+## About Me
+
+I'm a Generative AI Engineer and full-stack developer with hands-on **production experience** building real-time Voice AI systems, multi-channel conversational agents, and LLM-powered backend pipelines.
+
+My core strength is architecting **end-to-end AI systems** — from low-latency voice-to-voice (V2V) streaming pipelines using LiveKit and WebRTC, to LangChain-orchestrated chatbot services with MCP-based enterprise tool integrations. On the full-stack side, I build scalable backend services with **Python/FastAPI** and frontend interfaces with **React**.
+
+I specialize in agentic AI systems, RAG pipelines, multi-provider LLM routing, and real-time communication stacks — and I've shipped these in production across **web, WhatsApp, and telephony** channels.
+
+- 🎙️ Currently building real-time **Voice AI** and **MCP-based AI assistant integrations** at **EaseMyTrip**
+- 🧠 Deep focus on **STT → LLM → TTS** pipelines, multi-agent orchestration, and low-latency systems
+- 🛠️ Working daily with **LangChain, LangGraph, LiveKit, FastAPI, and multi-provider LLM routing**
+- ✍️ I write about real-time audio AI, LLM orchestration, and system-level optimization on X
+- 🌱 Currently exploring **MCP / UCP protocol design** and cross-platform AI assistant widget delivery
 
 ---
 
 ## Current Focus Areas
 
-* Real-time Voice AI systems (STT → LLM → TTS, V2V pipelines)
-* WebRTC, VoIP, and telephony-based conversational agents
-* Multi-agent LLM orchestration using LangGraph and LangChain
-* Low-latency, cost-aware model routing and inference optimization
-* Scalable backend systems with async-first architectures
-* Applied RAG systems with vector databases
+```text
+🎧  Real-time Voice AI            STT → LLM → TTS pipelines, V2V systems
+📞  Telephony & WebRTC            LiveKit, Twilio, Exotel, VoIP protocol engineering
+🤖  Multi-Agent Orchestration     LangChain, LangGraph, agent handoff architectures
+⚡  Low-Latency Inference          Token-aware model routing, cost-optimized LLM switching
+🏗️  Scalable Backend Systems      Async-first architecture, FastAPI, Docker, PostgreSQL
+🔍  Applied RAG Systems           Vector search, Pinecone, FAISS, grounded Q&A
+🔌  MCP / Agentic Tooling         Model Context Protocol integrations for ChatGPT & Claude
+```
 
 ---
 
 ## Professional Experience
 
-### Generative AI Engineer — EaseMyTrip, Gurgaon
+### Generative AI Engineer — EaseMyTrip.com
+**Aug 2025 – Present · Gurugram, Haryana, India**
 
-**Aug 2025 – Present**
+Architecting and delivering production-grade Conversational AI and Voice AI systems serving customers across **Web, WhatsApp, and Telephony** channels.
 
-* Architected and deployed an end-to-end **Voice-to-Voice AI pipeline** from scratch using OpenAI GPT-4o-mini Realtime Preview, Gemini native thinking-audio models, Whisper ASR, and custom STT–LLM–TTS micro-pipelines.
-* Achieved **sub-220ms round-trip latency** via chunked audio streaming, adaptive buffering, server-side VAD tuning (60–80ms), and preemptive interruption handling.
-* Integrated **DeepFilterNet** for real-time noise suppression, improving speech clarity by approximately 32 percent.
-* Designed a real-time communication stack using **LiveKit (WebRTC)**, WebSocket-based audio streaming, and VoIP protocol experimentation (μ-law, Opus, RTP jitter buffers).
-* Built bidirectional telephony integrations with **Twilio and Exotel**, including custom G711 μ-law converters, FFmpeg preprocessing, and async worker pipelines, resulting in 98 percent plus call stability.
-* Conducted R&D across OpenAI, Gemini, Anthropic, Deepgram, and Groq voice models with **token-aware routing**, latency-based model switching, and compression-optimized payloads, reducing per-call cost and improving inference throughput by ~35 percent.
-* Designed PostgreSQL-backed async architectures with multi-stage NLP extraction and multi-channel support (Telephony, WhatsApp, Telegram).
+- Engineered and launched EaseMyTrip's **MCP integration for ChatGPT and Claude**, transforming internal travel APIs into production-grade MCP tools with conversational tool-calling support for bookings, itinerary management, and customer assistance directly inside ChatGPT and Claude.
+- Designed and implemented a real-time voice streaming pipeline using **LiveKit (WebRTC)**, **Silero VAD**, **Groq Whisper STT**, and multi-provider TTS (ElevenLabs, Azure, Google Wavenet, Sarvam) — achieving **sub-900ms round-trip latency** through chunked audio streaming, adaptive buffering, and preemptive interruption handling.
+- Engineered the **WhatsApp Travel Bot**, integrating Meta Webhook APIs, Redis-backed session management, and the core chatbot service for seamless multi-channel AI-driven travel assistance.
+- Developed the **EMT Chatbot core service** with a dual-chain LangChain architecture: a tool-calling chain for intent classification and dynamic tool invocation, paired with a dedicated LLM summarization chain for structured, channel-aware responses.
+- Contributed to the **EMT Tools Ecosystem** — an MCP-based tool-calling framework powering flight search, hotel lookup, train/bus booking, pre/post-booking flows, and OTP-based authentication.
+- Applied **DeepFilterNet** for real-time noise suppression and conducted R&D across OpenAI, Gemini, Anthropic, Deepgram, Google, Sarvam, and Groq voice models — cutting per-call operational cost and improving inference throughput via token-aware routing.
+- Practiced async-first development, containerized all services with **Docker**, and collaborated with DevOps on production deployment and scalability.
 
----
+### Backend Developer Intern — Hunar.ai
+**Gurugram, India**
 
-### Backend Developer Intern — Hunar.ai, Gurgaon
+- Designed and optimized **PostgreSQL query pipelines** for data extraction workflows serving 20+ enterprise clients with 100,000+ records, improving reporting efficiency by **30%**.
+- Built RESTful APIs and contributed to schema optimization, reducing query execution time across core reporting modules.
+- Explored LLM integration patterns and contributed to backend modules supporting AI-assisted features within the platform.
 
-**Jun 2024 – Aug 2024**
+### Technical Lead — Coding Ninjas Club, Chitkara University
+**2024 – 2025 · Punjab, India**
 
-* Developed optimized PostgreSQL query pipelines for large-scale data extraction and reporting.
-* Improved reporting efficiency by ~30 percent for clients managing 100,000 plus records.
-
----
-
-## Selected Projects
-
-### Sankalpiq — Multi-Agent AI Automation Suite
-
-* Designed an enterprise-grade AI automation platform using LLMs, FastAPI, Docker, Pinecone, and LangChain orchestration.
-* Deployed autonomous micro-agents for email automation, voice-based FAQ and data collection, WhatsApp outreach, and analytics dashboards.
-* Implemented semantic search, real-time telephonic interactions, and scalable messaging infrastructure.
-* Achieved approximately 50 percent operational efficiency gains and 40 percent higher stakeholder engagement.
+- Led technical workshops and mentored **100+ club members** on AI/ML, full-stack development, and competitive programming.
+- Organized hackathons, coding sprints, and project showcases, fostering a culture of applied engineering and product thinking.
+- Guided juniors in building production-ready AI and web projects, strengthening the club's presence at university and national levels.
 
 ---
 
-### Ninja Navigator AI — Multi-Agent Travel Planning System
+## Featured Work & Projects
 
-* Architected a production-grade multi-agent system using LangChain, LangGraph, and FastAPI.
-* Orchestrated five specialized agents with asynchronous coordination and persistent state management.
-* Implemented enterprise-grade practices including structured logging, exception handling, CI/CD pipelines, UV package management, and Husky git hooks.
-* Integrated multiple LLM providers (OpenAI, Groq) with concurrent asyncio workflows, achieving ~95 percent uptime.
+### 🎧 ComplaintHub — V2V Voice Pipeline for Citizen Grievance Automation
+A fully automated voice-to-voice citizen complaint registration system — users interact entirely through natural speech over a live call, with **no human agent involved**. The pipeline ingests live audio, transcribes via ASR, reasons over an LLM, and delivers a synthesized spoken response end-to-end.
+
+- Real-time audio stack using **GPT-4o-mini-realtime-preview** streaming for telephony (Twilio/Exotel), with custom G.711 µ-law converters, jitter buffer tuning, RTP optimization, and FFmpeg preprocessing.
+- POC across **three voice pipeline architectures**: OpenAI GPT-4o Realtime (PCM16 WebSocket), Gemini Native Audio Thinking Model, and a custom STT–LLM–TTS micro-pipeline (Whisper → Groq GPT-OSS → Google Wavenet) — with token-aware routing and latency-based model swapping.
+- **Silero VAD** with server-side threshold tuning + **DeepFilterNet** noise suppression, eliminating false-trigger interruptions in noisy call environments.
+- Multi-stage NLP extraction for citizen intent, complaint category, and brand details — persisted to Redis with async PostgreSQL for durable storage.
+
+### 📊 Syntropy Labs — LLM Evaluation & Benchmarking Platform
+A four-microservice LLM evaluation platform: an **Orchestrator** (API gateway, JWT auth, org/project management, job orchestration), a **Model Runner** (FastAPI + LiteLLM multi-provider proxy), an **Eval Engine** (automated metric scoring), and MongoDB for metadata persistence.
+
+- Provider-agnostic inference proxy via **LiteLLM**, normalizing OpenAI, Anthropic, Gemini, Mistral, and Azure into a single OpenAI-compatible interface with per-provider token and latency tracking.
+- WebSocket-based **Realtime Service** for live voice evaluation, integrating OpenAI Realtime API and Gemini BidiGenerateContent for audio-in/audio-out benchmarking.
+- **Eval Engine** supporting statistical metrics, predefined LLM-as-judge metrics (relevance, groundedness, coherence, fluency), and fully custom criteria with configurable judge model, threshold, and per-metric weighting.
+- Multimodal evaluation pipelines for AI-generated image/video — scoring physics plausibility, anatomical correctness, semantic adherence, temporal consistency, and aesthetic quality via vision-capable LLM evaluators.
+- Progressive batch evaluation system with per-row score persistence to GCS-hosted CSV datasets, enabling real-time progress polling and partial recovery on mid-job failures.
+
+### 🌐 EaseMyTrip ChatGPT App & Claude Connector
+Led the integration of EaseMyTrip's travel services into **ChatGPT and Claude via the Model Context Protocol (MCP)**.
+
+- Exposed enterprise travel APIs as production-ready MCP tools for flight search, hotel discovery, itinerary planning, booking assistance, and post-booking operations through natural conversation.
+- Architected a **cross-platform widget delivery framework** dynamically serving Claude-optimized experiences from a unified backend, API layer, and business logic.
+- Designed secure MCP tool integration, parameter extraction pipelines, and channel-aware conversational workflows for enterprise-grade reliability.
+
+### 🎬 Aura.ai — Text-to-Video AI SaaS Platform
+An AI SaaS platform automating end-to-end video creation from text/document inputs — covering LLM-powered summarization, multilingual voiceover synthesis, sign-language video generation, and AR/VR scene integration for accessibility in education and corporate training.
+
+- **AuraBot** — a knowledge-base-grounded RAG assistant for contextual Q&A over uploaded course/training material.
+- Analytics dashboard tracking viewer engagement, quiz completion, comprehension scores, and retention — personalizing content delivery per learning profile.
+
+### ✈️ Ninja Navigator AI — Multi-Agent Travel Planning System
+A production-grade multi-agent system orchestrating **five specialized agents** with asynchronous coordination and persistent state management.
+
+- Built with LangChain, LangGraph, and FastAPI; enterprise-grade practices including structured logging, exception handling, CI/CD, UV package management, and Husky git hooks.
+- Multi-provider LLM integration (OpenAI, Groq) with concurrent asyncio workflows — **~95% uptime**.
+
+### 🏢 Sankalpiq — Multi-Agent AI Automation Suite
+An enterprise-grade AI automation platform with autonomous micro-agents for email automation, voice-based FAQ/data collection, WhatsApp outreach, and analytics dashboards.
+
+- Built on LLMs, FastAPI, Docker, Pinecone, and LangChain orchestration with semantic search and real-time telephonic interactions.
+- Delivered **~50% operational efficiency gains** and **40% higher stakeholder engagement**.
 
 ---
 
-### Aura.ai — Text-to-Video AI SaaS Platform
+## Tech Stack
 
-* Built an AI-driven SaaS platform that converts text documents into summarized, voice-over-enabled videos with multilingual support.
-* Integrated analytics dashboards, interactive quizzes, and engagement tracking.
-* Added inclusive features such as custom knowledge-based assistants, AR/VR components, sign-language video generation, and voice-controlled navigation.
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+**AI / ML & Agentic Systems**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
+![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=flat-square)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square)
+![MCP](https://img.shields.io/badge/Model%20Context%20Protocol-MCP-6E56CF?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-FF6F00?style=flat-square)
+
+**Voice & Real-Time Systems**
+
+![LiveKit](https://img.shields.io/badge/LiveKit-WebRTC-FF3D00?style=flat-square)
+![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-Audio%20Streaming-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white)
+
+**Backend & Infrastructure**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Tooling & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 
 ---
 
-## Technical Skillset
+## Skillset Breakdown
 
-**Programming Languages**
-
-* Python, C++, JavaScript, TypeScript, SQL
-
-**AI and Generative Systems**
-
-* LangChain, LangGraph, LangSmith, RAG pipelines, LLM embeddings, Pinecone
-* Speech and audio systems, STT/TTS pipelines, LiveKit
-
-**Backend and Infrastructure**
-
-* Node.js, Express.js, FastAPI, Kafka, Redis
-* Docker, PostgreSQL, MongoDB, Firebase, SQLite
-
-**Frontend and Web**
-
-* React, Next.js, Redux, Tailwind CSS
-
-**Tooling and Platforms**
-
-* Git, GitHub Actions, CI/CD pipelines, Selenium, BeautifulSoup, GCP
+| Category | Skills |
+|---|---|
+| **Languages** | Python, JavaScript, TypeScript, C++, SQL |
+| **Frameworks & Libraries** | FastAPI, React, Node.js, Express.js, Redux, Streamlit, Selenium, BeautifulSoup |
+| **AI & ML** | LangChain, LangGraph, LangSmith, RAG, LLM Embeddings, Prompt Engineering, MCP, UCP, Pinecone, FAISS, OFGA |
+| **Voice & Real-Time** | LiveKit (WebRTC), ASR, WebSocket Audio Streaming, VAD, Speaker Diarization, STT/TTS pipelines, DeepFilterNet, Twilio, Exotel, µ-law, FFmpeg, Opus |
+| **Databases** | PostgreSQL, MongoDB, Redis, SQLite, Firestore |
+| **Tools & Platforms** | Git, Docker, Google Cloud, Firebase, LiteLLM, UV, Husky, Ngrok, Cloudflare |
+| **Architecture** | REST APIs, Microservices & Monolithic Architecture, Async Pipelines, CI/CD |
 
 ---
 
 ## Achievements
 
-* Top 22 National Finalist and Social Buzz Winner — Bajaj Finserv HackRx 5.0
-* Winner — Aditya Birla Group Synaptix Hackathon 2025 (DTU)
-* Selected — Microsoft GitHub Field Day, Gurgaon
-* First Runner-Up — FusionFest Hackathon, Chitkara University
-* Finalist and Social Buzz Winner — Vihaan 7.0, DTU
+🏆 **Top 22 National Finalist & Social Buzz Winner** — Bajaj Finserv HackRx 5.0
+🏆 **Top 50 Finalist** — Cars24 Token'26 (hosted by OpenAI, AWS & ElevenLabs)
+🏆 **Winner** — Aditya Birla Group's Synaptix Hackathon '25 (Delhi Technological University)
+🏆 **Selected** — GitHub Field Day '24 at Microsoft, Gurgaon
+🏆 **First Runner-Up** — FusionFest Hackathon, Chitkara University
+🏆 **Finalist & Social Buzz Winner** — Vihaan 7.0, Delhi Technological University
 
 ---
 
-## Links
+## Education
 
-* Portfolio: [https://www.yadavhappy.in](https://www.yadavhappy.in)
-* LinkedIn: [https://www.linkedin.com/in/happy-yadav-16b2a4287](https://www.linkedin.com/in/happy-yadav-16b2a4287)
-* Email: [happyrao7091@gmail.com](mailto:happyrao7091@gmail.com)
+**Bachelor of Computer Applications — Information Technology**
+Chitkara University, Punjab, India · CGPA: 9.12
 
 ---
 
-I am interested in roles and collaborations involving **Generative AI**, **Voice AI**, **LLM Systems**, and **scalable backend engineering**. Open to research-driven engineering problems and early-stage product work.
+## Let's Connect
+
+I'm interested in roles and collaborations involving **Generative AI**, **Voice AI**, **LLM Systems**, and **scalable backend engineering** — and I'm open to research-driven engineering problems and early-stage product work.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-yadavhappy.in-2563EB?style=for-the-badge)](https://www.yadavhappy.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/happy-yadav-16b2a4287)
+[![Gmail](https://img.shields.io/badge/Email-happy.yadav.ai%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:happy.yadav.ai@gmail.com)
+
+---
+
+<div align="center">
+<sub>⭐ If you found my work interesting, consider checking out my pinned repositories below.</sub>
+</div>
