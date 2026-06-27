@@ -2,7 +2,7 @@
 
 # Happy Yadav
 
-### Generative AI Engineer · Voice AI Systems · Full-Stack Developer
+### AApplied AI Engineer · Voice AI Systems · Full-Stack Developer
 
 Building production-grade real-time Voice AI pipelines, multi-agent LLM systems, and scalable backend platforms.
 
@@ -16,7 +16,7 @@ Building production-grade real-time Voice AI pipelines, multi-agent LLM systems,
 
 ## About Me
 
-I'm a Generative AI Engineer and full-stack developer with hands-on **production experience** building real-time Voice AI systems, multi-channel conversational agents, and LLM-powered backend pipelines.
+I'm a Applied AI Engineer and full-stack developer with hands-on **production experience** building real-time Voice AI systems, multi-channel conversational agents, and LLM-powered backend pipelines.
 
 My core strength is architecting **end-to-end AI systems** — from low-latency voice-to-voice (V2V) streaming pipelines using LiveKit and WebRTC, to LangChain-orchestrated chatbot services with MCP-based enterprise tool integrations. On the full-stack side, I build scalable backend services with **Python/FastAPI** and frontend interfaces with **React**.
 
@@ -46,7 +46,7 @@ I specialize in agentic AI systems, RAG pipelines, multi-provider LLM routing, a
 
 ## Professional Experience
 
-### Generative AI Engineer — EaseMyTrip.com
+### Applied AI Engineer — EaseMyTrip.com
 **Aug 2025 – Present · Gurugram, Haryana, India**
 
 Architecting and delivering production-grade Conversational AI and Voice AI systems serving customers across **Web, WhatsApp, and Telephony** channels.
@@ -209,7 +209,7 @@ Chitkara University, Punjab, India · CGPA: 9.12
 
 ## Let's Connect
 
-I'm interested in roles and collaborations involving **Generative AI**, **Voice AI**, **LLM Systems**, and **scalable backend engineering** — and I'm open to research-driven engineering problems and early-stage product work.
+I'm interested in roles and collaborations involving **Applied AI**, **Voice AI**, **LLM Systems**, and **scalable backend engineering** — and I'm open to research-driven engineering problems and early-stage product work.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-yadavhappy.in-2563EB?style=for-the-badge)](https://www.yadavhappy.in)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/happy-yadav-16b2a4287)
