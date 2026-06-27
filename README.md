@@ -2,7 +2,7 @@
 
 # Happy Yadav
 
-### AApplied AI Engineer · Voice AI Systems · Full-Stack Developer
+### Applied AI Engineer · Voice AI Systems · Full-Stack Developer
 
 Building production-grade real-time Voice AI pipelines, multi-agent LLM systems, and scalable backend platforms.
 
